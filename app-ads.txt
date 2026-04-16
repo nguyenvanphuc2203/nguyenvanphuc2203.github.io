@@ -1,0 +1,3 @@
+# AdMob Authorization Code
+# Replace the line below with your real code from AdMob dashboard
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
